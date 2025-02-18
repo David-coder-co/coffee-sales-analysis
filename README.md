@@ -1,4 +1,5 @@
-# INTRODUCTION
+# Coffee Sales Analysis
+## INTRODUCTION
 This repository focuses on the analysis of coffee sales transactions from a vending machine. The dataset provides detailed records of purchases, allowing for an in-depth examination of sales trends, customer preferences, and purchase behaviors.
 
 ### Data Collection Period
